@@ -1,0 +1,8 @@
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\bin\x64\Debug\MSSQLAuthenticator.exe.config
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\bin\x64\Debug\MSSQLAuthenticator.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\bin\x64\Debug\MSSQLAuthenticator.pdb
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\obj\x64\Debug\MSSQLAuthenticator.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\obj\x64\Debug\MSSQLAuthenticator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\obj\x64\Debug\MSSQLAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\obj\x64\Debug\MSSQLAuthenticator.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\MSSQLAuthenticator\MSSQLAuthenticator\obj\x64\Debug\MSSQLAuthenticator.pdb

@@ -1,0 +1,8 @@
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\bin\x64\Debug\spOACodeExecution.exe.config
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\bin\x64\Debug\spOACodeExecution.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\bin\x64\Debug\spOACodeExecution.pdb
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\obj\x64\Debug\spOACodeExecution.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\obj\x64\Debug\spOACodeExecution.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\obj\x64\Debug\spOACodeExecution.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\obj\x64\Debug\spOACodeExecution.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\spOACodeExecution\spOACodeExecution\obj\x64\Debug\spOACodeExecution.pdb

@@ -1,0 +1,8 @@
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\bin\Debug\xpcmdshellCodeExecution.exe.config
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\bin\Debug\xpcmdshellCodeExecution.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\bin\Debug\xpcmdshellCodeExecution.pdb
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\obj\Debug\xpcmdshellCodeExecution.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\obj\Debug\xpcmdshellCodeExecution.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\obj\Debug\xpcmdshellCodeExecution.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\obj\Debug\xpcmdshellCodeExecution.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\xpcmdshellCodeExecution\xpcmdshellCodeExecution\obj\Debug\xpcmdshellCodeExecution.pdb

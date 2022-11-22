@@ -1,0 +1,8 @@
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\bin\x64\Debug\SQLImpersonation.exe.config
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\bin\x64\Debug\SQLImpersonation.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\bin\x64\Debug\SQLImpersonation.pdb
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\obj\x64\Debug\SQLImpersonation.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\obj\x64\Debug\SQLImpersonation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\obj\x64\Debug\SQLImpersonation.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\obj\x64\Debug\SQLImpersonation.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\SQLImpersonation\SQLImpersonation\obj\x64\Debug\SQLImpersonation.pdb

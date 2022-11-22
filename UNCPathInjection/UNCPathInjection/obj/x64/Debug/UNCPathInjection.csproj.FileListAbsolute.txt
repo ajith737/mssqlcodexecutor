@@ -1,0 +1,8 @@
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\bin\x64\Debug\UNCPathInjection.exe.config
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\bin\x64\Debug\UNCPathInjection.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\bin\x64\Debug\UNCPathInjection.pdb
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\obj\x64\Debug\UNCPathInjection.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\obj\x64\Debug\UNCPathInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\obj\x64\Debug\UNCPathInjection.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\obj\x64\Debug\UNCPathInjection.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\UNCPathInjection\UNCPathInjection\obj\x64\Debug\UNCPathInjection.pdb
