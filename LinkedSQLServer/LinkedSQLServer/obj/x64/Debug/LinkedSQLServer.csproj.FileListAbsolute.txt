@@ -1,0 +1,8 @@
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\bin\x64\Debug\LinkedSQLServer.exe.config
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\bin\x64\Debug\LinkedSQLServer.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\bin\x64\Debug\LinkedSQLServer.pdb
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\obj\x64\Debug\LinkedSQLServer.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\obj\x64\Debug\LinkedSQLServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\obj\x64\Debug\LinkedSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\obj\x64\Debug\LinkedSQLServer.exe
+C:\Users\ghost\Documents\GitHub\mssqlcodexecutor\LinkedSQLServer\LinkedSQLServer\obj\x64\Debug\LinkedSQLServer.pdb
