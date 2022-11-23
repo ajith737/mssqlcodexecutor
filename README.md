@@ -56,3 +56,32 @@ Example:
 ```
 xpcmdshellCodeExecution.exe sql.local master whoami
 ```
+## LinkedSQLServer
+### Check
+Usage:
+```
+LinkedSQLServer.exe <sql server 1> <database name> check
+```
+Example:
+```
+LinkedSQLServer.exe sql01.local master check
+```
+### Verify
+Usage:
+```
+LinkedSQLServer.exe <sql server 1> <database name> verify <sql server 2>
+```
+Example:
+```
+LinkedSQLServer.exe sql01.local master verify sql02
+```
+
+### Execute
+Usage:
+```
+LinkedSQLServer.exe <sql server> <database name> execute <sql server 2> <command>
+```
+Example:
+```
+LinkedSQLServer.exe sql01.local master execute sql02 whoami
+```
